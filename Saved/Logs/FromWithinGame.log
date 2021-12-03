@@ -1992,3 +1992,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.03-01.07.34:704][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.12.03-01.07.34:720][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2021.12.03-01.07.34:748][763]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.12.03-01.08.59:767][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.12.03-01.08.59:768][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../GameDev/FromWithinGame/Saved/Autosaves/Game/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.12.03-01.08.59:780][200]LogSavePackage: Moving '../../../../GameDev/FromWithinGame/Saved/Level1_Auto10B3D37E94F2914D388271BB7DD653EA4.tmp' to '../../../../GameDev/FromWithinGame/Saved/Autosaves/Game/Level1_Auto1.umap'
+[2021.12.03-01.08.59:781][200]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.028
+[2021.12.03-01.08.59:781][200]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
